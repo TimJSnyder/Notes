@@ -10,7 +10,7 @@ export default function Header() {
         <h1 className="header">Notes</h1>
       </Appbar>
       <Toolbar />
-        <IconButton aria-label="github" color="secondary" href="https://github.com/TimJSnyder/Notes">
+        <IconButton aria-label="github" color="secondary" href="https://github.com/TimJSnyder/Notes" target="__blank">
           <GitHubIcon />
         </IconButton>
       </>
